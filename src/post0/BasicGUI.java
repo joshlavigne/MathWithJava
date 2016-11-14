@@ -32,6 +32,6 @@ public class BasicGUI {
 	}
 	
 	public static void main(String[] args) {
-		new BasicGUI();
+		//new BasicGUI();
 	}
 }
