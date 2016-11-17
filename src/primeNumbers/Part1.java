@@ -1,7 +1,6 @@
-package post1;
-import java.math.*;
+package primeNumbers;
 
-public class primeNumbers {
+public class Part1 {
 	public static void main(String[] args){
 		//Setting variables
 		int num1 = 1;
